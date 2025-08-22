@@ -105,3 +105,4 @@ with open("diabetes_model.pkl", "wb") as f:
 
 with open("scaler.pkl", "wb") as f:
     pickle.dump(scaler, f)
+
