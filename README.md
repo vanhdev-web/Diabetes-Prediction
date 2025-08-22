@@ -3,6 +3,24 @@
 This repository hosts a machine learning project designed to predict the risk of diabetes based on various health parameters. It includes a robust model training pipeline and a user-friendly web interface built with Streamlit, allowing users to input their health data and receive real-time predictions.
 ![demo](https://drive.google.com/uc?export=view&id=1-bswaQHb5U7dSm8WzwPY48W6t0xDqHzW)
 
+**Table of Content**
+1. [Dataset Overview](#dataset-overview)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Tech Stack](#tech-stack)
+6. [Project Structure](#project-structure)
+7. [Contributing](#contributing)
+8. [License](#license)  
+## Dataset Overview
+**Dataset statistics**  
+![](https://drive.google.com/uc?id=1VdJ683lEhTV0QNonzjIYlyDSNy4TkCep)
+**Scatter Plot of Age vs. Pregnancies**  
+![](https://drive.google.com/uc?id=1_hC2QF8I6fndUU69kS4env3tGD3bSLSU)
+**Correlation Matrix**  
+![](https://drive.google.com/uc?id=1VgYXdLMd3DkkAfpWpmz-N9hzpqXHE8SS)
+**Sample**  
+![](https://drive.google.com/uc?id=1YbjKHMkEhB4o50SdbPshlWckvwtZvP1a)
 ## Features
 
 *   **Data Handling**: Loading, splitting (training/testing), and preprocessing of the diabetes dataset.
