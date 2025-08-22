@@ -1,7 +1,7 @@
 # Diabetes Prediction Web Application
 
 This repository hosts a machine learning project designed to predict the risk of diabetes based on various health parameters. It includes a robust model training pipeline and a user-friendly web interface built with Streamlit, allowing users to input their health data and receive real-time predictions.
-![demo](images/Demo_diabetes_prediciton.gif)
+![demo](Demo_diabetes_prediciton.gif)
 
 ## Features
 
@@ -94,4 +94,5 @@ Contributions are welcome! If you have suggestions for improvements, bug fixes, 
 ## License
 
 This project is licensed under the MIT License.
+
 
