@@ -1,6 +1,8 @@
 # Diabetes Prediction Web Application
 
 This repository hosts a machine learning project designed to predict the risk of diabetes based on various health parameters. It includes a robust model training pipeline and a user-friendly web interface built with Streamlit, allowing users to input their health data and receive real-time predictions.
+Feel free to visit my webite here:https://diabetes-prediction-applications.streamlit.app/  
+ 
 ![demo](https://drive.google.com/uc?export=view&id=1-bswaQHb5U7dSm8WzwPY48W6t0xDqHzW)
 
 **Table of Content**
@@ -14,12 +16,20 @@ This repository hosts a machine learning project designed to predict the risk of
 8. [License](#license)  
 ## Dataset Overview
 **Dataset statistics**  
-![](https://drive.google.com/uc?id=1VdJ683lEhTV0QNonzjIYlyDSNy4TkCep)
+
+![](https://drive.google.com/uc?id=1VdJ683lEhTV0QNonzjIYlyDSNy4TkCep) 
+
 **Scatter Plot of Age vs. Pregnancies**  
+
 ![](https://drive.google.com/uc?id=1_hC2QF8I6fndUU69kS4env3tGD3bSLSU)
+
 **Correlation Matrix**  
+
 ![](https://drive.google.com/uc?id=1VgYXdLMd3DkkAfpWpmz-N9hzpqXHE8SS)
+![](https://drive.google.com/uc?export=view&id=1k58PW4HE83jQnjeg-Ssmr6OIGj5b5tWb)
+
 **Sample**  
+
 ![](https://drive.google.com/uc?id=1YbjKHMkEhB4o50SdbPshlWckvwtZvP1a)
 ## Features
 
